@@ -1,6 +1,6 @@
 # ExampleLayoutApp
 Demo implementation of social-geo-like application custom layout
-Goals: implement simpe layot based on map viw with floatin image buttons and custo, popup window
+Goals: implement simple layout based on map with floating image buttons and custom popup window
 Used: custom view layout for popup map marker window, Google Maps Api, Butterknife, Moxy 
 
 
